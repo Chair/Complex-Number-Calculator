@@ -1,0 +1,10 @@
+Complex number calculator project
+
+Goals:
+	[ ] Has a nice gui that allow a large variety of mathematical functions
+	[ ] Can Comprehend complex numbers and such
+	[ ] Can display fractions nicely (ie  a
+										  -
+										  b)
+	[ ] Pretty Radicals
+	[ ] Does not have to make estimates for any number so long as it is not irrational (but it should not make estimates for irrational radicals)
